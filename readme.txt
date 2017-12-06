@@ -1,1 +1,2 @@
-²ßÂÔ(StrategyPattern)Ä£Ê½
+ç­–ç•¥(StrategyPattern)æ¨¡å¼
+
